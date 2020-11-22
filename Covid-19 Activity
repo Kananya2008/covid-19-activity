@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>text properties</title>
+<style type="text/css">
+body{colour:pink;text-decoration:underline;}
+p{text-align:center;text-glow:2px 2px blue}
+</style>
+</head>
+</body>
+<h1>Corona Virus</h1>
